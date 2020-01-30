@@ -1,0 +1,40 @@
+C:\Users\SELÇUK\source\repos\FileHomework\FileHomework\bin\Debug\FileHomework.exe.config
+C:\Users\SELÇUK\source\repos\FileHomework\FileHomework\bin\Debug\FileHomework.exe
+C:\Users\SELÇUK\source\repos\FileHomework\FileHomework\bin\Debug\FileHomework.pdb
+C:\Users\SELÇUK\source\repos\FileHomework\FileHomework\obj\Debug\FileHomework.csprojAssemblyReference.cache
+C:\Users\SELÇUK\source\repos\FileHomework\FileHomework\obj\Debug\FileHomework.Form1.resources
+C:\Users\SELÇUK\source\repos\FileHomework\FileHomework\obj\Debug\FileHomework.Properties.Resources.resources
+C:\Users\SELÇUK\source\repos\FileHomework\FileHomework\obj\Debug\FileHomework.csproj.GenerateResource.cache
+C:\Users\SELÇUK\source\repos\FileHomework\FileHomework\obj\Debug\FileHomework.csproj.CoreCompileInputs.cache
+C:\Users\SELÇUK\source\repos\FileHomework\FileHomework\obj\Debug\FileHomework.exe
+C:\Users\SELÇUK\source\repos\FileHomework\FileHomework\obj\Debug\FileHomework.pdb
+C:\Users\kaleh\OneDrive\Masaüstü\FileHomework\FileHomework\bin\Debug\FileHomework.exe.config
+C:\Users\kaleh\OneDrive\Masaüstü\FileHomework\FileHomework\bin\Debug\FileHomework.exe
+C:\Users\kaleh\OneDrive\Masaüstü\FileHomework\FileHomework\bin\Debug\FileHomework.pdb
+C:\Users\kaleh\OneDrive\Masaüstü\FileHomework\FileHomework\obj\Debug\FileHomework.csprojAssemblyReference.cache
+C:\Users\kaleh\OneDrive\Masaüstü\FileHomework\FileHomework\obj\Debug\FileHomework.Form1.resources
+C:\Users\kaleh\OneDrive\Masaüstü\FileHomework\FileHomework\obj\Debug\FileHomework.Properties.Resources.resources
+C:\Users\kaleh\OneDrive\Masaüstü\FileHomework\FileHomework\obj\Debug\FileHomework.csproj.GenerateResource.cache
+C:\Users\kaleh\OneDrive\Masaüstü\FileHomework\FileHomework\obj\Debug\FileHomework.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\OneDrive\Masaüstü\FileHomework\FileHomework\obj\Debug\FileHomework.exe
+C:\Users\kaleh\OneDrive\Masaüstü\FileHomework\FileHomework\obj\Debug\FileHomework.pdb
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomework\FileHomework\FileHomework\obj\Debug\FileHomework.csprojAssemblyReference.cache
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomework\FileHomework\FileHomework\obj\Debug\FileHomework.Form1.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomework\FileHomework\FileHomework\obj\Debug\FileHomework.Properties.Resources.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomework\FileHomework\FileHomework\obj\Debug\FileHomework.csproj.GenerateResource.cache
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomework\FileHomework\FileHomework\obj\Debug\FileHomework.csproj.CoreCompileInputs.cache
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomework\FileHomework\FileHomework\obj\Debug\FileHomework.exe
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomework\FileHomework\FileHomework\obj\Debug\FileHomework.pdb
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomework\FileHomework\FileHomework\bin\Debug\FileHomework.exe.config
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomework\FileHomework\FileHomework\bin\Debug\FileHomework.exe
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomework\FileHomework\FileHomework\bin\Debug\FileHomework.pdb
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomeworkUpdated\FileHomework\FileHomework\FileHomework\bin\Debug\FileHomework.exe.config
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomeworkUpdated\FileHomework\FileHomework\FileHomework\bin\Debug\FileHomework.exe
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomeworkUpdated\FileHomework\FileHomework\FileHomework\bin\Debug\FileHomework.pdb
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomeworkUpdated\FileHomework\FileHomework\FileHomework\obj\Debug\FileHomework.csprojAssemblyReference.cache
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomeworkUpdated\FileHomework\FileHomework\FileHomework\obj\Debug\FileHomework.Form1.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomeworkUpdated\FileHomework\FileHomework\FileHomework\obj\Debug\FileHomework.Properties.Resources.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomeworkUpdated\FileHomework\FileHomework\FileHomework\obj\Debug\FileHomework.csproj.GenerateResource.cache
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomeworkUpdated\FileHomework\FileHomework\FileHomework\obj\Debug\FileHomework.csproj.CoreCompileInputs.cache
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomeworkUpdated\FileHomework\FileHomework\FileHomework\obj\Debug\FileHomework.exe
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\File Organization\FileHomeworkUpdated\FileHomework\FileHomework\FileHomework\obj\Debug\FileHomework.pdb
